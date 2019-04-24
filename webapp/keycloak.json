@@ -1,0 +1,10 @@
+{
+  "realm": "FNZ-Chainlink",
+  "auth-server-url": "http://35.178.143.36:9090/auth",
+  "ssl-required": "none",
+  "resource": "fnz-chainlink-ui-viki",
+  "credentials": {
+    "secret": "9abf5c38-48f6-4eaa-8f6e-9bccd93baa08"
+  },
+  "confidential-port": 0
+}
