@@ -1,6 +1,6 @@
 {
-  "realm": "FNZ-Chainlink-dev",
-  "auth-server-url": "http://localhost:8080/auth",
+  "realm": "FNZ-Chainlink",
+  "auth-server-url": "http://localhost:9090/auth",
   "ssl-required": "none",
   "resource": "fnz-chainlink-ui",
   "public-client": true,
